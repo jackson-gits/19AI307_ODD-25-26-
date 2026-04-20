@@ -22,8 +22,8 @@ To Write a Java program to create a class called Rectangle with private instance
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: Magesh.N
-RegisterNumber:  212222040091
+Developed by: Jackson Raj A
+RegisterNumber:  212223040071
 */
 ```
 
